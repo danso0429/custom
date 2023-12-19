@@ -10,6 +10,7 @@ I saved it here because I'm too lazy to actually visit the site.
 
   - [Flat textures](#Flat-textures)
   - [Headsfeet & No hats](#Headsfeet-&-No-hats)
+  - [No misc](#No-misc)
   - [Huds](#Huds)
   - [No dominations](#No-dominations)
 
@@ -21,9 +22,17 @@ yes it is copy & paste. The purpose is to prevent losing it forever in case of o
 
 ## Headsfeet & No hats
 
-Original: https://gamebanana.com/mods/205768, https://files.catbox.moe/z05j7c.vpk (headsfeet)
+Original: https://gamebanana.com/mods/205768 (no hats), https://files.catbox.moe/z05j7c.vpk (headsfeet) 
 
 yes it is copy & paste. The purpose is to prevent losing it forever in case of original file getting deleted.
+
+# No misc
+
+Original link: https://gamebanana.com/mods/470051
+
+this mod gets rid of stattracks, canteens, etc.. "No hats extra" (above) includes the mod that removes action items, so it's your choice to use it or not.
+
+I only use it to remove stattarcks.
 
 ## Huds
 
