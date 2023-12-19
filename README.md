@@ -38,7 +38,7 @@ this mod gets rid of stattracks, canteens, etc..
 
 "No hats extra" file in the "no hats" folder includes the mod that removes action items, so it's your choice to use it or not.
 
-I only use it to remove stattarcks.
+I only use it to remove stattracks.
 
 ## Huds
 
