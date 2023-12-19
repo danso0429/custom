@@ -8,10 +8,10 @@ I saved it here because I'm too lazy to actually visit the site.
 
 ## Other files
 
-  -[Flat textures]
-  -[Headsfeet & No hats]
-  -[Huds]
-[No dominations]
+  - [Flat textures]
+  - [Headsfeet & No hats]
+  - [Huds]
+  - [No dominations]
 
 ## Flat textures
 
