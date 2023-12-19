@@ -18,7 +18,9 @@ I saved it here because I'm too lazy to actually visit the site.
 
 Original link: https://gamebanana.com/mods/295065
 
-yes it is copy & paste. The purpose is to prevent losing it forever in case of original file getting deleted.
+yes it is copy & paste.
+
+The purpose is to prevent losing it forever in case of original file getting deleted.
 
 ## Headsfeet & No hats
 
@@ -28,7 +30,7 @@ yes it is copy & paste.
 
 The purpose is to prevent losing it forever in case of original file getting deleted.
 
-# No misc
+## No misc
 
 Original link: https://gamebanana.com/mods/470051
 
