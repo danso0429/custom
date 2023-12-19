@@ -13,6 +13,7 @@ I saved it here because I'm too lazy to actually visit the site.
   - [No misc](#No-misc)
   - [Huds](#Huds)
   - [No dominations](#No-dominations)
+  - [What is z01 file?](#z01-file)
 
 ## Flat textures
 
@@ -51,3 +52,7 @@ Original link: https://gamebanana.com/mods/298459
 It just changes the sounds of dominating/getting dominated sounds.
 
 I'm slowly working on deleting the domination killfeed image.
+
+## z01 file
+
+I needed to separately compress some files. Download all .zip file and .z01 (and more) then unzip .zip file. It will work fine.
