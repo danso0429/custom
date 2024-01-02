@@ -31,27 +31,11 @@ yes it is copy & paste.
 
 The purpose is to prevent losing it forever in case of original file getting deleted.
 
-## No misc
-
-Original link: https://gamebanana.com/mods/470051
-
-this mod gets rid of stattracks, canteens, etc..
-
-"No hats extra" file in the "no hats" folder includes the mod that removes action items, so it's your choice to use it or not.
-
 I only use it to remove stattracks.
 
 ## Huds
 
 most huds are from https://tf2huds.dev/. I suggest you to visit it instead of downloading huds from here without searching it.
-
-## No dominations
-
-Original link: https://gamebanana.com/mods/298459
-
-It just changes the sounds of dominating/getting dominated sounds.
-
-I'm slowly working on deleting the domination killfeed image.
 
 ## z01 file
 
