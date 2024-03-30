@@ -1,6 +1,11 @@
-## Go to https://mastercomfig.com to get the latest version
+## I quit TF2.
 
-My custom folder MIGHT be outdated at the time you are looking at this.
+November 16th, 2016 ~ February 23th, 2024.
+잘 놀다 갑니다.
+
+## For the config, go to https://mastercomfig.com to get the latest version
+
+My custom folder should be outdated at the time you are looking at this.
 
 Go to https://mastercomfig.com to get one.
 
@@ -36,6 +41,8 @@ I only use it to remove stattracks.
 ## Huds
 
 most huds are from https://tf2huds.dev/. I suggest you to visit it instead of downloading huds from here without searching it.
+
+Other huds are probably from pktf2. She's (or was, since she has almost quitted TF2 too.) good at editing hud, and they all look nice.
 
 ## z01 file
 
