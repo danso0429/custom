@@ -1,8 +1,3 @@
-## I quit TF2.
-
-November 16th, 2016 ~ February 23th, 2024.
-잘 놀다 갑니다.
-
 ## For the config, go to https://mastercomfig.com to get the latest version
 
 My custom folder should be outdated at the time you are looking at this.
