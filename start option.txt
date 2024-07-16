@@ -1,1 +1,1 @@
--dxlevel 81 -exec modules -exec autoexec -condebug -conclearlog -usercon -g15 -novid -nojoy -nosteamcontroller -nohltv -particles 1 -precachefontchars
+-port 27069 -exec modules -exec autoexec -condebug -conclearlog -usercon -g15 -novid -nojoy -nosteamcontroller -nohltv -particles 1 -precachefontchars
