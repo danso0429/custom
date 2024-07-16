@@ -1,0 +1,6 @@
+bind f call
+alias call call_for_spy
+alias call_for_spy "voicemenu 1 1"
+alias call_for_sentry "voicemenu 1 2"
+alias +toggle_medic "alias call call_for_sentry"
+alias -toggle_medic "alias call call_for_spy"
