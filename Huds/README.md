@@ -9,3 +9,7 @@ lighthud: I forgot what it is.
 totoZONAhud: pktf2 version.
 
 Xhud: pktf2 version.
+
+AINTB-ZONAhud: personal edited version of toto's edited version
+
+Baniahud: quite simple hud.
