@@ -35,7 +35,7 @@ I only use it to remove stattracks.
 
 ## Huds
 
-most huds are from https://tf2huds.dev/. I suggest you to visit it instead of downloading huds from here without searching it.
+most huds are from https://comfig.app/huds/. I suggest you to visit it instead of downloading huds from here without searching it.
 
 Other huds are probably from pktf2. She's (or was, since she has almost quitted TF2 too.) good at editing hud, and they all look nice.
 
