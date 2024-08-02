@@ -13,3 +13,5 @@ Xhud: pktf2 version.
 AINTB-ZONAhud: personal edited version of toto's edited version
 
 Baniahud: quite simple hud.
+
+Theory-Y hud: Theory-Y version of toonhud. I personally don't like toonhud, but this hud looks quite decent
